@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'title';
+    src: url('./fonts/Deep Shadow.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyText';
+    src: url('./fonts/Heavitas.ttf');
+    font-style: normal;
+}
+table th, table td{
+    padding: 10px;
+}
+table{
+    width: 97%;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #f5f5dc;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 4px 4px black;
+    margin: 15px;
+}
+h1{
+    font-family: 'MyText';
+    font-size: 45px;
+    color: black;
+    margin: 0px;
+    padding-bottom: 12px;
+}
+body{
+    background-color: #f5f5dc;
+}
+img{
+    width: 300px;
+    background-color: #f5f5dc;
+}
+#container, #container-select-pantallas{
+    width: 334px;
+    background-color: #add8e6;
+    margin: 10px auto;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+textarea{
+    width: 300px;
+    background-color: #f5f5dc;
+    text-align: center;
+    resize: none;
+    height: 30px;
+    line-height: 30px;
+}
+textarea:focus, input:focus, select:focus   {
+    outline: none;
+}
+#letra{
+    width: 17px;
+    padding: 7px;
+    background-color: #f5f5dc;
+    text-align: center;
+}
+input{
+    padding: 7px;
+    background-color: #f5f5dc;
+    text-align: center;
+}
+#email, #pwd{
+    width: 90%;
+    margin-bottom: 20px;
+}
+button, select{
+    padding: 7px;
+    background-color: #f5f5dc;
+}
+textarea, input, button, img, select{
+    margin: 5px;
+}
+#container, #container-select-pantallas, textarea, input, button, img, select{
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 4px 4px black;
+    font-family: 'MyText';
+    color: #323232;
+}
+button:active, select:hover, input:active{
+    box-shadow: 0px 0px black;
+    transform: translate(3px, 3px);
+}

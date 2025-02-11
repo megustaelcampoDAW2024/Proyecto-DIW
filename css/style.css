@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'faodu';
+    src: url('../resources/fonts/faodu.otf');
+}
+
+.titulo{
+    font-family: 'faodu';
+    color: #dda92d;
+}
+
+body {
+    --s: 200px;
+    /* control the size*/
+    --c1: #1d1d1d;
+    --c2: #4e4f51;
+    --c3: #3c3c3c;
+
+    background:
+        repeating-conic-gradient(from 30deg, #0000 0 120deg, var(--c3) 0 50%) calc(var(--s)/2) calc(var(--s)*tan(30deg)/2),
+        repeating-conic-gradient(from 30deg, var(--c1) 0 60deg, var(--c2) 0 120deg, var(--c3) 0 50%);
+    background-size: var(--s) calc(var(--s)*tan(30deg));
+    background-attachment: fixed;
+
+    overflow: auto; /* Allow scrolling */
+}
+
+/* Hide scrollbar for webkit browsers */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+.navbar-toggler{
+    border: none;
+}
+
+.nav-item:hover .nav-link {
+    color: #dda92d !important;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nav-item .nav-link {
+    transition: all 0.3s ease;
+}
+.github-icon {
+    filter: drop-shadow(4px 4px 14px #000000);
+    fill: #000000;
+    transition: fill 0.5s ease, transform 0.5s ease;
+}
+.github-icon:hover {
+    filter: none;
+    fill: #dda92d;
+    transform: rotate(10deg);
+}
+.footer-text {
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.card{
+    background: rgba(176, 170, 170, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(176, 170, 170, 0.3);
+}
+
+.card:hover {
+    background: rgba(176, 170, 170, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8.1px);
+    -webkit-backdrop-filter: blur(8.1px);
+    border: 1px solid rgba(176, 170, 170, 0.3);
+    border: 2px solid #dda92d;
+    
+    transition: all 0.3s ease;
+}
+
+.card {
+    transition: all 0.3s ease;
+}
+
+
+#card-pdf {
+    border: 2px solid #dda92d;
+}
+.card img {
+    border-radius: 16px;
+} 
+
+.navbar.bg-dark {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    transition: background-color 0.3s ease;
+}
+.navbar.bg-transparent {
+    transition: background-color 0.3s ease;
+}
