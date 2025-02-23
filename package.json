@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-diw---prueba",
+  "version": "1.0.0",
+  "description": "**Tiempo máximo de realización del proyecto: 15 horas Fecha: 5 al 25 de febrero**",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css ./sass/custom.css --content ./index.html --output ./css/style2.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megustaelcampoDAW2024/Proyecto-DIW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megustaelcampoDAW2024/Proyecto-DIW/issues"
+  },
+  "homepage": "https://github.com/megustaelcampoDAW2024/Proyecto-DIW#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

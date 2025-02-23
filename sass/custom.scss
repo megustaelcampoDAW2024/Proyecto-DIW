@@ -1,0 +1,24 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Custom Bootstrap variables
+
+$primary: rgba(0, 0, 0, 0.8);
+$warning: #ffc107;
+
+// Custom overrides
+body {
+    background-color: $light;
+}
+
+.navbar {
+    background-color: $primary;
+}
+
+.btn-primary {
+    background-color: $primary;
+    border-color: $primary;
+}
+
+.card {
+    border: 1px solid $secondary;
+}
