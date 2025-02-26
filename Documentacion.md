@@ -85,7 +85,7 @@ body {
 
 ### **Sass: archivo custom.css reducido**
 He utilizado Sass para generar un archivo CSS reducido (`custom.css`). Este archivo se encuentra en la carpeta `sass` y se compila utilizando el script de build definido en `package.json`.
-
+El principal cambio es el cambio de color en la barra de navegación, que pasa a ser negro semitransparente
 ```scss
 // Archivo: sass/custom.scss
 $primary-color: #ffcc00;
