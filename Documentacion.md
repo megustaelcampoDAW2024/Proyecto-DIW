@@ -225,6 +225,8 @@ Color de texto: Negro o un color oscuro para asegurar el contraste.
 Estilo: Gradiente de colores saturados y difuminados, creando un efecto llamativo y moderno.
 Recusrso extraido de: [Spline](https://spline.design/)
 
+![2D Shapes (1)](https://github.com/user-attachments/assets/c9075e6e-17fc-4ee8-91ed-2c620b693016)
+
 ## **Recursos utilizados**
 - [Bootstrap Documentation](https://getbootstrap.esdocu.com/docs/5.3/getting-started/introduction/)
 - [Bootstrap Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
