@@ -67,30 +67,3 @@ Recursos: [https://www.eniun.com/diseno-desarrollo-webs-accesibles-accesibilidad
 6\.Se utilizará un estilo de texto para todo el documento, diferenciando los títulos. 7.Se aplicará el mismo interlineado a todo el documento.
 
 8\.Se debe incluir la webgrafía de páginas consultadas y recurso utilizados. Estos enlaces pueden está a lo largo del documento o en el último punto.
-
-**Tablas de rúbrica**
-
-
-
-|Ha reconocido las implicaciones de las licencias y los derechos de autor en el uso de material multimedia.|Ha identificado los formatos de imagen, audio y vídeo a utilizar.|Ha analizado las herramientas disponibles para generar contenido multimedia.|Ha empleado herramientas para el tratamiento digital de la imagen.|Ha utilizado herramientas para manipular audio y vídeo.|Ha realizado animaciones a partir de imágenes fijas.|Ha importado y exportado imágenes, audio y vídeo en diversos formatos según su finalidad.|Ha aplicado la guía de estilo.|
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|||||||||
-|||||||||
-
-
-|Ha reconocido y analizado las tecnologías relacionadas con la inclusión de contenido multimedia e interactivo.|Ha identificado las necesidades específicas de configuración de los navegadores Web para soportar contenido multimedia e interactivo.|Ha utilizado herramientas gráficas para el desarrollo de contenido multimedia interactivo.|Ha analizado el código generado por las herramientas de desarrollo de contenido interactivo. |Ha agregado elementos multimedia a documentos Web.|Ha añadido interactividad a elementos de un documento Web.|Ha  verificado  el funcionamiento  de  los  elementos multimedia e interactivos en distintos navegadores|
-| :- | :- | :- | :- | :- | :- | :- |
-||||||||
-||||||||
-
-
-|Ha reconocido la necesidad de diseñar Webs accesibles.|Ha  analizado  la accesibilidad  de diferentes  documentos Web.|Ha identificado las principales pautas de accesibilidad al contenido.|Ha analizado los posibles errores según los puntos de verificación de prioridad. |Ha alcanzado el nivel de conformidad deseado.|Ha verificado los niveles alcanzados mediante el uso de test externos.|Ha verificado la visualización del interfaz con diferentes navegadores y tecnologías.|
-| :- | :- | :- | :- | :- | :- | :- |
-||||||||
-||||||||
-
-
-|Ha analizado la usabilidad de diferentes documentos Web|<p>Ha modificado el interfaz Web para adecuarlo al objetivo</p><p>que persigue y a los</p><p>usuarios a los que va</p><p>dirigido</p>|Ha valorado la importancia del uso de estándares en la creación de documentos Web|Ha verificado la facilidad de navegación de un documento Web mediante distintos periféricos|Ha analizado diferentes técnicas para verificar la usabilidad de un documento Web|<p>Ha verificado la usabilidad del interfaz</p><p>Web creado en diferentes navegadores y tecnologías.</p>|
-| :- | :- | :- | :- | :- | :- |
-|||||||
-|||||||

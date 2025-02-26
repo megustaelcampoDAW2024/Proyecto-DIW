@@ -1,0 +1,23 @@
+[
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Sistema de Gestión Constructora",
+      "description": "Un sistema desarrollado con PHP y Laravel para administrar las operaciones de una constructora...",
+      "url": "https://megustaelcampo.com/proyectos/gestion-constructora"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Sistema de Gestión de Facturación",
+      "description": "Un programa desarrollado con JavaScript, JQuery y PHP para gestionar las facturas de una tienda de electrónica...",
+      "url": "https://megustaelcampo.com/proyectos/gestion-facturacion"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Juego del Ahorcado",
+      "description": "Un juego interactivo desarrollado con Vue.js y PHP...",
+      "url": "https://megustaelcampo.com/proyectos/juego-ahorcado-vue"
+    }
+  ]
