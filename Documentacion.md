@@ -233,6 +233,8 @@ Recusrso extraido de: [Spline](https://spline.design/)
 - [Optimización de contenido multimedia](https://www.eniun.com/formatos-archivos-video-conversiones-web/)
 - [Accesibilidad web](https://www.eniun.com/diseno-desarrollo-webs-accesibles-accesibilidad-web/)
 - [Usabilidad web](https://www.eniun.com/tutorial-usabilidad-web/)
+- Trello ![Trello](https://github.com/user-attachments/assets/0f8e2670-589c-4209-bdc2-770c9660d3a9)
+
 
 ## **Conclusiones**
 El proyecto ha sido una excelente oportunidad para aplicar los conocimientos adquiridos en el curso. He aprendido a utilizar Bootstrap para crear una web responsiva y a optimizar contenido multimedia para mejorar el rendimiento. Además, he aplicado principios de accesibilidad y usabilidad para asegurar que la web sea accesible y fácil de usar para todos los usuarios, así como mejorar el SEO de la web
