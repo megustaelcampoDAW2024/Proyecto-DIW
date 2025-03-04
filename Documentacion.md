@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5e147afa-e66d-47f7-b4b0-9dc306bf89fb)
+
 # **Proyecto DIW - Documentación**
 
 ## **Parte 1: Web personalizada**
